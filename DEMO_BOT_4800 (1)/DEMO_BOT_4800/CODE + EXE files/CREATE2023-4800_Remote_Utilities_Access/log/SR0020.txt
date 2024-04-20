@@ -1,0 +1,11 @@
+2023-10-17 11:39:35 - Administrator is executing current script
+2023-10-17 11:39:35 - Inputs have been saved to C:\CREATE_Automation\CREATE2023-4800_Remote_Utilities_Access\conf\Input.txt.
+2023-10-17 11:39:35 - Maximum allowed time for the script: 45 seconds
+2023-10-17 11:39:40 - Input file is cleared after reading inputs
+2023-10-17 11:39:44 - Server: EC2AMAZ-OJ9690C is reachable, Hence proceeding for Authentication 
+2023-10-17 11:39:45 - Authentication is successful on the server EC2AMAZ-OJ9690C
+2023-10-17 11:39:45 - Execution started for User: user2 with session-ID: 1
+2023-10-17 11:40:10 - Add bot is in execution for: user2 with session-ID: 1
+2023-10-17 11:40:13 - Successful
+2023-10-17 11:40:14 - User user2 successfully added to group ITADMIN on server EC2AMAZ-OJ9690C
+2023-10-17 11:40:15 - Script executed successfully in 00:00:38.5469245 (seconds)
